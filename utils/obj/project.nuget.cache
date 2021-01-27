@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdKSMLKIkl4X4YtA0k2BKzTEyNgS3OtZr5J3Nnmg7P6J4H9tNYFxm3rrDCSCwfZGkP5Pj+akiJ8DYD1BJDE4zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\utils\\utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

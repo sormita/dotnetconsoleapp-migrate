@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "utils/1.0.0": {
+      "type": "project",
+      "path": "../utils/utils.csproj",
+      "msbuildProject": "../utils/utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+      "projectName": "dotnetapp",
+      "projectPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+      "packagesPath": "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SormitaChakraborty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\utils\\utils.csproj": {
+              "projectPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\utils\\utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
