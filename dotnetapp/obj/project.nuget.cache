@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNIFV7u0D7WqAZLleEiTa1ADObH7fBrrmp3jIDXzFZZH7VOZsYvFsdq3CWZyzCqJX8rm7l119pmMWtEmGgxmxA==",
+  "dgSpecHash": "LmWPEdODLCMoBo4K+li7f+GxyjnEzn2kaq1oAlC63n6jNemRLIFFLxdvgW+RVEy93ySXXHP267EFJL/1Y67NOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnet-framework-docker-master\\dotnet-framework-docker-master\\samples\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
