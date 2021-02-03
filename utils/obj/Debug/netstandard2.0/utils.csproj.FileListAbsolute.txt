@@ -16,3 +16,12 @@ C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\utils\obj\Deb
 C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\utils\obj\Debug\netstandard2.0\utils.csproj.CoreCompileInputs.cache
 C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\utils\obj\Debug\netstandard2.0\utils.dll
 C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\utils\obj\Debug\netstandard2.0\utils.pdb
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\bin\Debug\netstandard2.0\utils.deps.json
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\bin\Debug\netstandard2.0\utils.dll
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\bin\Debug\netstandard2.0\utils.pdb
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\obj\Debug\netstandard2.0\utils.csprojAssemblyReference.cache
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\obj\Debug\netstandard2.0\utils.AssemblyInfoInputs.cache
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\obj\Debug\netstandard2.0\utils.AssemblyInfo.cs
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\obj\Debug\netstandard2.0\utils.csproj.CoreCompileInputs.cache
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\obj\Debug\netstandard2.0\utils.dll
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\utils\obj\Debug\netstandard2.0\utils.pdb

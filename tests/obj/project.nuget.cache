@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/7FAvI1calMMbIHNHh5COiL1Mhzt+/cAT1l1hEZvJZUPCkZciefLksQxoe5vXdPRXBzAG2xlZ+kPdbcN1ZyqQ==",
+  "dgSpecHash": "meJzaqhNHCTHDmd072AwB2i+sjzKf690PfWa94vM26VLtGJa0oB98YduCHc3MZQuYjLbWU5eC6Kd1n/yY6cthw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnetapp\\tests\\tests.csproj",
+  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\WorkingDirectory\\dotnetconsoleapp-migrate-master\\dotnetconsoleapp-migrate-master\\tests\\tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\microsoft.codecoverage\\1.0.3\\microsoft.codecoverage.1.0.3.nupkg.sha512",
     "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\microsoft.net.test.sdk\\15.7.0\\microsoft.net.test.sdk.15.7.0.nupkg.sha512",

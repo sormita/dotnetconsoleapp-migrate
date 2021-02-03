@@ -22,3 +22,15 @@ C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\dotnetapp\obj
 C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.csproj.CopyComplete
 C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.exe
 C:\Users\SormitaChakraborty\source\repos\DotNetMigration\dotnetapp\dotnetapp\obj\Debug\net48\dotnetapp.pdb
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\bin\Debug\net48\dotnetapp.exe.config
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\bin\Debug\net48\dotnetapp.exe
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\bin\Debug\net48\dotnetapp.pdb
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\bin\Debug\net48\utils.dll
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\bin\Debug\net48\utils.pdb
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.csprojAssemblyReference.cache
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.AssemblyInfoInputs.cache
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.AssemblyInfo.cs
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.csproj.CoreCompileInputs.cache
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.csproj.CopyComplete
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.exe
+C:\Users\SormitaChakraborty\source\repos\DotNetMigration\WorkingDirectory\dotnetconsoleapp-migrate-master\dotnetconsoleapp-migrate-master\dotnetapp\obj\Debug\net48\dotnetapp.pdb

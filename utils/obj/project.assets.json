@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnetapp\\utils\\utils.csproj",
+      "projectUniqueName": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\WorkingDirectory\\dotnetconsoleapp-migrate-master\\dotnetconsoleapp-migrate-master\\utils\\utils.csproj",
       "projectName": "utils",
-      "projectPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnetapp\\utils\\utils.csproj",
+      "projectPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\WorkingDirectory\\dotnetconsoleapp-migrate-master\\dotnetconsoleapp-migrate-master\\utils\\utils.csproj",
       "packagesPath": "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnetapp\\utils\\obj\\",
+      "outputPath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\WorkingDirectory\\dotnetconsoleapp-migrate-master\\dotnetconsoleapp-migrate-master\\utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SormitaChakraborty\\AppData\\Roaming\\NuGet\\NuGet.Config",

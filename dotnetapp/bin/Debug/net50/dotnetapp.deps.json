@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dotnetapp/1.0.0": {
+        "dependencies": {
+          "utils": "1.0.0"
+        },
+        "runtime": {
+          "dotnetapp.dll": {}
+        }
+      },
+      "utils/1.0.0": {
+        "runtime": {
+          "utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnetapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

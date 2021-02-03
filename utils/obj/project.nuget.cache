@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F6+7qMEARREklU77roLHMLypvyAOlF50w6sLAxG4BfuLxaDknTDnuvT1mFGw4oimkx6NkQjadVt8GPjdV21RQA==",
+  "dgSpecHash": "UXO90Bw4qpACfunXkDuIIkXmUKJb66Lx8QuweDHjQyzeThACwe0k8/j1GaPDF21df2NQCVF6RQtVYPtVUxr3xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\dotnetapp\\utils\\utils.csproj",
+  "projectFilePath": "C:\\Users\\SormitaChakraborty\\source\\repos\\DotNetMigration\\WorkingDirectory\\dotnetconsoleapp-migrate-master\\dotnetconsoleapp-migrate-master\\utils\\utils.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\SormitaChakraborty\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
