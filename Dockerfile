@@ -32,4 +32,7 @@ RUN dotnet publish -c Release -o out --no-restore
 FROM mcr.microsoft.com/dotnet/framework/runtime:4.8 AS runtime
 WORKDIR /app
 COPY --from=publish /app/dotnetapp/out ./
-ENTRYPOINT ["dotnetapp.exe"]
+RUN ls -ltRr
+RUN chmod -R 777 *
+RUN ls -ltrR
+ENTRYPOINT ["./dotnetapp"]
